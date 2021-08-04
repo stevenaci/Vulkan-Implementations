@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="HelloTriangleApplication.cpp">
+    <ClCompile Include="HelloVulkanApplication.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -26,8 +23,13 @@
     <ClInclude Include="resource.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="HelloTriangleApplication.h">
+    <ClInclude Include="HelloVulkanApplication.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="shader.vert" />
+    <None Include="shader.frag" />
+    <None Include="README.md" />
   </ItemGroup>
 </Project>
