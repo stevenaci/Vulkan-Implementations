@@ -1,6 +1,6 @@
 # Vulkan Tutorial
 
-## The famous 
+### The 
 ## "1000 lines of code it takes to set up Vulkan"
 
 This is an overview of the tutorials at
